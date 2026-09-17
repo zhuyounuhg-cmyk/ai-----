@@ -1,0 +1,134 @@
+﻿09-17 20:32:19.783 I/PC-Hook ( 2103): [PC] FLOW installed OpenImgui
+09-17 20:32:19.815 I/PC-Hook ( 2169): [PC] FLOW installed OpenImgui
+09-17 20:32:19.822 I/PC-Hook ( 2103): [PC] FLOW secondary runtime methods=Post,RC4Base,UrlPost,access$L1000000,access$L1000001,access$L1000002,access$L1000026,access$L1000027,access$L1000028,access$S1000000,access$S1000001,access$S1000002,access$S1000026,access$S1000027,access$S1000028,bytesToHex,decryRC4,encodeMD5,encryRC4Byte,encryRC4String,getAttributes,hexToByte,initKey,loadKmView,鍐欏叆,鍐欏叆鏂囦欢,鍐欏嚭assets璧勬簮鏂囦欢,鍒涘缓鏂囦欢,鏂囦欢鏄惁瀛樺湪,鑾峰彇鏈哄櫒鐮?璇诲彇鏂囦欢,DeletePermission,Notice,OpenImgui,onConfigurationChanged,onCreate,requestPermission,update
+09-17 20:32:19.823 I/PC-Hook ( 2103): [PC] FLOW TRACE armed getAttributes
+09-17 20:32:19.823 I/PC-Hook ( 2103): [PC] FLOW TRACE armed loadKmView
+09-17 20:32:19.824 I/PC-Hook ( 2103): [PC] FLOW TRACE armed update
+09-17 20:32:19.824 I/PC-Hook ( 2103): [PC] FLOW TRACE armed Notice
+09-17 20:32:19.825 I/PC-Hook ( 2103): [PC] FLOW TRACE armed DeletePermission
+09-17 20:32:19.825 I/PC-Hook ( 2103): [PC] FLOW TRACE armed 鑾峰彇鏈哄櫒鐮?
+09-17 20:32:19.826 I/PC-Hook ( 2103): [PC] FLOW TRACE armed 璇诲彇鏂囦欢
+09-17 20:32:19.826 I/PC-Hook ( 2103): [PC] FLOW TRACE armed 鏂囦欢鏄惁瀛樺湪
+09-17 20:32:19.827 I/PC-Hook ( 2103): [PC] FLOW TRACE armed 鍐欏嚭assets璧勬簮鏂囦欢
+09-17 20:32:19.827 I/PC-Hook ( 2103): [PC] FLOW TRACE armed 鍒涘缓鏂囦欢
+09-17 20:32:19.828 I/PC-Hook ( 2103): [PC] FLOW TRACE armed 鍐欏叆鏂囦欢
+09-17 20:32:19.828 I/PC-Hook ( 2103): [PC] FLOW TRACE armed Post
+09-17 20:32:19.828 I/PC-Hook ( 2103): [PC] FLOW TRACE armed RC4Base
+09-17 20:32:19.829 I/PC-Hook ( 2103): [PC] FLOW TRACE armed encryRC4String
+09-17 20:32:19.829 I/PC-Hook ( 2103): [PC] FLOW TRACE armed encryRC4Byte
+09-17 20:32:19.830 I/PC-Hook ( 2103): [PC] FLOW TRACE armed bytesToHex
+09-17 20:32:19.830 I/PC-Hook ( 2103): [PC] FLOW TRACE armed hexToByte
+09-17 20:32:19.830 I/PC-Hook ( 2103): [PC] FLOW TRACE armed initKey
+09-17 20:32:19.831 I/PC-Hook ( 2103): [PC] click probe installed
+09-17 20:32:19.831 I/PC-Hook ( 2103): [PC] DIRECT KICK ready (trigger=appenter)
+09-17 20:32:19.831 I/PC-Hook ( 2103): [PC] SECONDARY requestPermission wrapped: 1
+09-17 20:32:19.833 I/PC-Hook ( 2103): [PC] FLOW secondary probes ready
+09-17 20:32:19.853 I/PC-Hook ( 2169): [PC] FLOW secondary runtime methods=Post,RC4Base,UrlPost,access$L1000000,access$L1000001,access$L1000002,access$L1000026,access$L1000027,access$L1000028,access$S1000000,access$S1000001,access$S1000002,access$S1000026,access$S1000027,access$S1000028,bytesToHex,decryRC4,encodeMD5,encryRC4Byte,encryRC4String,getAttributes,hexToByte,initKey,loadKmView,鍐欏叆,鍐欏叆鏂囦欢,鍐欏嚭assets璧勬簮鏂囦欢,鍒涘缓鏂囦欢,鏂囦欢鏄惁瀛樺湪,鑾峰彇鏈哄櫒鐮?璇诲彇鏂囦欢,DeletePermission,Notice,OpenImgui,onConfigurationChanged,onCreate,requestPermission,update
+09-17 20:32:19.854 I/PC-Hook ( 2169): [PC] FLOW TRACE armed getAttributes
+09-17 20:32:19.854 I/PC-Hook ( 2169): [PC] FLOW TRACE armed loadKmView
+09-17 20:32:19.855 I/PC-Hook ( 2169): [PC] FLOW TRACE armed update
+09-17 20:32:19.856 I/PC-Hook ( 2169): [PC] FLOW TRACE armed Notice
+09-17 20:32:19.856 I/PC-Hook ( 2169): [PC] FLOW TRACE armed DeletePermission
+09-17 20:32:19.857 I/PC-Hook ( 2169): [PC] FLOW TRACE armed 鑾峰彇鏈哄櫒鐮?
+09-17 20:32:19.858 I/PC-Hook ( 2169): [PC] FLOW TRACE armed 璇诲彇鏂囦欢
+09-17 20:32:19.858 I/PC-Hook ( 2169): [PC] FLOW TRACE armed 鏂囦欢鏄惁瀛樺湪
+09-17 20:32:19.859 I/PC-Hook ( 2169): [PC] FLOW TRACE armed 鍐欏嚭assets璧勬簮鏂囦欢
+09-17 20:32:19.860 I/PC-Hook ( 2169): [PC] FLOW TRACE armed 鍒涘缓鏂囦欢
+09-17 20:32:19.861 I/PC-Hook ( 2169): [PC] FLOW TRACE armed 鍐欏叆鏂囦欢
+09-17 20:32:19.861 I/PC-Hook ( 2169): [PC] FLOW TRACE armed Post
+09-17 20:32:19.862 I/PC-Hook ( 2169): [PC] FLOW TRACE armed RC4Base
+09-17 20:32:19.863 I/PC-Hook ( 2169): [PC] FLOW TRACE armed encryRC4String
+09-17 20:32:19.864 I/PC-Hook ( 2169): [PC] FLOW TRACE armed encryRC4Byte
+09-17 20:32:19.864 I/PC-Hook ( 2169): [PC] FLOW TRACE armed bytesToHex
+09-17 20:32:19.865 I/PC-Hook ( 2169): [PC] FLOW TRACE armed hexToByte
+09-17 20:32:19.865 I/PC-Hook ( 2169): [PC] FLOW TRACE armed initKey
+09-17 20:32:19.866 I/PC-Hook ( 2169): [PC] click probe installed
+09-17 20:32:19.866 I/PC-Hook ( 2169): [PC] DIRECT KICK ready (trigger=appenter)
+09-17 20:32:19.866 I/PC-Hook ( 2169): [PC] SECONDARY requestPermission wrapped: 1
+09-17 20:32:19.868 I/PC-Hook ( 2169): [PC] FLOW secondary probes ready
+09-17 20:33:08.180 I/PC-Hook ( 2103): [PC] FLOW CLICK android.widget.Button text=鐧诲綍
+09-17 20:33:08.422 I/PC-Hook ( 2103): [PC] SECONDARY requestPermission skipped
+09-17 20:33:24.874 I/PC-Hook ( 2103): [PC] FLOW CLICK android.widget.Button text=鈶犲紑鍚緟鍔?
+09-17 20:33:24.892 I/PC-Hook ( 2103): [PC] FLOW SECONDARY null device identifier normalized
+09-17 20:33:24.923 I/PC-Hook ( 2103): [PC] FLOW SECONDARY offline UrlPost https://wy.llua.cn/api/?id=kmlogin&app=54010
+09-17 20:33:24.935 I/PC-Hook ( 2103): [PC] DIRECT KICK imgui: OpenImgui()
+09-17 20:33:24.936 I/PC-Hook ( 2103): [PC] FLOW SECONDARY OpenImgui ENTER
+09-17 20:33:24.985 I/PC-Hook ( 2103): [PC] FLOW SECONDARY OpenImgui RETURN
+09-17 20:33:49.295 I/PC-Hook ( 2103): [PC] FLOW CLICK android.widget.Button text=鈶¤繘鍏ユ父鎴?
+09-17 20:33:49.302 I/PC-Hook ( 2103): [PC] DIRECT KICK armed (reason=appenter)
+09-17 20:33:49.321 I/PC-Hook ( 2103): [PC] DIRECT KICK imgui: OpenImgui()
+09-17 20:33:49.322 I/PC-Hook ( 2103): [PC] FLOW SECONDARY OpenImgui ENTER
+09-17 20:33:51.412 I/PC-Hook ( 3861): [PC] FLOW installed OpenImgui
+09-17 20:33:51.444 I/PC-Hook ( 3861): [PC] FLOW secondary runtime methods=Post,RC4Base,UrlPost,access$L1000000,access$L1000001,access$L1000002,access$L1000026,access$L1000027,access$L1000028,access$S1000000,access$S1000001,access$S1000002,access$S1000026,access$S1000027,access$S1000028,bytesToHex,decryRC4,encodeMD5,encryRC4Byte,encryRC4String,getAttributes,hexToByte,initKey,loadKmView,鍐欏叆,鍐欏叆鏂囦欢,鍐欏嚭assets璧勬簮鏂囦欢,鍒涘缓鏂囦欢,鏂囦欢鏄惁瀛樺湪,鑾峰彇鏈哄櫒鐮?璇诲彇鏂囦欢,DeletePermission,Notice,OpenImgui,onConfigurationChanged,onCreate,requestPermission,update
+09-17 20:33:51.445 I/PC-Hook ( 3861): [PC] FLOW TRACE armed getAttributes
+09-17 20:33:51.445 I/PC-Hook ( 3861): [PC] FLOW TRACE armed loadKmView
+09-17 20:33:51.446 I/PC-Hook ( 3861): [PC] FLOW TRACE armed update
+09-17 20:33:51.446 I/PC-Hook ( 3861): [PC] FLOW TRACE armed Notice
+09-17 20:33:51.447 I/PC-Hook ( 3861): [PC] FLOW TRACE armed DeletePermission
+09-17 20:33:51.447 I/PC-Hook ( 3861): [PC] FLOW TRACE armed 鑾峰彇鏈哄櫒鐮?
+09-17 20:33:51.448 I/PC-Hook ( 3861): [PC] FLOW TRACE armed 璇诲彇鏂囦欢
+09-17 20:33:51.448 I/PC-Hook ( 3861): [PC] FLOW TRACE armed 鏂囦欢鏄惁瀛樺湪
+09-17 20:33:51.449 I/PC-Hook ( 3861): [PC] FLOW TRACE armed 鍐欏嚭assets璧勬簮鏂囦欢
+09-17 20:33:51.449 I/PC-Hook ( 3861): [PC] FLOW TRACE armed 鍒涘缓鏂囦欢
+09-17 20:33:51.450 I/PC-Hook ( 3861): [PC] FLOW TRACE armed 鍐欏叆鏂囦欢
+09-17 20:33:51.450 I/PC-Hook ( 3861): [PC] FLOW TRACE armed Post
+09-17 20:33:51.450 I/PC-Hook ( 3861): [PC] FLOW TRACE armed RC4Base
+09-17 20:33:51.451 I/PC-Hook ( 3861): [PC] FLOW TRACE armed encryRC4String
+09-17 20:33:51.451 I/PC-Hook ( 3861): [PC] FLOW TRACE armed encryRC4Byte
+09-17 20:33:51.452 I/PC-Hook ( 3861): [PC] FLOW TRACE armed bytesToHex
+09-17 20:33:51.452 I/PC-Hook ( 3861): [PC] FLOW TRACE armed hexToByte
+09-17 20:33:51.452 I/PC-Hook ( 3861): [PC] FLOW TRACE armed initKey
+09-17 20:33:51.453 I/PC-Hook ( 3861): [PC] click probe installed
+09-17 20:33:51.453 I/PC-Hook ( 3861): [PC] DIRECT KICK ready (trigger=appenter)
+09-17 20:33:51.453 I/PC-Hook ( 3861): [PC] SECONDARY requestPermission wrapped: 1
+09-17 20:33:51.454 I/PC-Hook ( 3861): [PC] FLOW secondary probes ready
+09-17 20:33:51.548 I/PC-Hook ( 3861): [PC] PMS getPackageInfo com.tencent.tmgp.pubgmhd
+09-17 20:33:52.502 I/PC-Hook ( 3972): [PC] FLOW installed OpenImgui
+09-17 20:33:52.537 I/PC-Hook ( 3972): [PC] FLOW secondary runtime methods=Post,RC4Base,UrlPost,access$L1000000,access$L1000001,access$L1000002,access$L1000026,access$L1000027,access$L1000028,access$S1000000,access$S1000001,access$S1000002,access$S1000026,access$S1000027,access$S1000028,bytesToHex,decryRC4,encodeMD5,encryRC4Byte,encryRC4String,getAttributes,hexToByte,initKey,loadKmView,鍐欏叆,鍐欏叆鏂囦欢,鍐欏嚭assets璧勬簮鏂囦欢,鍒涘缓鏂囦欢,鏂囦欢鏄惁瀛樺湪,鑾峰彇鏈哄櫒鐮?璇诲彇鏂囦欢,DeletePermission,Notice,OpenImgui,onConfigurationChanged,onCreate,requestPermission,update
+09-17 20:33:52.538 I/PC-Hook ( 3972): [PC] FLOW TRACE armed getAttributes
+09-17 20:33:52.539 I/PC-Hook ( 3972): [PC] FLOW TRACE armed loadKmView
+09-17 20:33:52.539 I/PC-Hook ( 3972): [PC] FLOW TRACE armed update
+09-17 20:33:52.540 I/PC-Hook ( 3972): [PC] FLOW TRACE armed Notice
+09-17 20:33:52.540 I/PC-Hook ( 3972): [PC] FLOW TRACE armed DeletePermission
+09-17 20:33:52.541 I/PC-Hook ( 3972): [PC] FLOW TRACE armed 鑾峰彇鏈哄櫒鐮?
+09-17 20:33:52.542 I/PC-Hook ( 3972): [PC] FLOW TRACE armed 璇诲彇鏂囦欢
+09-17 20:33:52.542 I/PC-Hook ( 3972): [PC] FLOW TRACE armed 鏂囦欢鏄惁瀛樺湪
+09-17 20:33:52.543 I/PC-Hook ( 3972): [PC] FLOW TRACE armed 鍐欏嚭assets璧勬簮鏂囦欢
+09-17 20:33:52.544 I/PC-Hook ( 3972): [PC] FLOW TRACE armed 鍒涘缓鏂囦欢
+09-17 20:33:52.545 I/PC-Hook ( 3972): [PC] FLOW TRACE armed 鍐欏叆鏂囦欢
+09-17 20:33:52.545 I/PC-Hook ( 3972): [PC] FLOW TRACE armed Post
+09-17 20:33:52.546 I/PC-Hook ( 3972): [PC] FLOW TRACE armed RC4Base
+09-17 20:33:52.547 I/PC-Hook ( 3972): [PC] FLOW TRACE armed encryRC4String
+09-17 20:33:52.548 I/PC-Hook ( 3972): [PC] FLOW TRACE armed encryRC4Byte
+09-17 20:33:52.548 I/PC-Hook ( 3972): [PC] FLOW TRACE armed bytesToHex
+09-17 20:33:52.549 I/PC-Hook ( 3972): [PC] FLOW TRACE armed hexToByte
+09-17 20:33:52.550 I/PC-Hook ( 3972): [PC] FLOW TRACE armed initKey
+09-17 20:33:52.550 I/PC-Hook ( 3972): [PC] click probe installed
+09-17 20:33:52.551 I/PC-Hook ( 3972): [PC] DIRECT KICK ready (trigger=appenter)
+09-17 20:33:52.551 I/PC-Hook ( 3972): [PC] SECONDARY requestPermission wrapped: 1
+09-17 20:33:52.554 I/PC-Hook ( 3972): [PC] FLOW secondary probes ready
+09-17 20:33:52.664 I/PC-Hook ( 3972): [PC] PMS getPackageInfo com.tencent.tmgp.pubgmhd
+09-17 20:33:56.005 I/PC-Hook ( 4238): [PC] FLOW secondary runtime methods=Post,RC4Base,UrlPost,access$L1000000,access$L1000001,access$L1000002,access$L1000026,access$L1000027,access$L1000028,access$S1000000,access$S1000001,access$S1000002,access$S1000026,access$S1000027,access$S1000028,bytesToHex,decryRC4,encodeMD5,encryRC4Byte,encryRC4String,getAttributes,hexToByte,initKey,loadKmView,鍐欏叆,鍐欏叆鏂囦欢,鍐欏嚭assets璧勬簮鏂囦欢,鍒涘缓鏂囦欢,鏂囦欢鏄惁瀛樺湪,鑾峰彇鏈哄櫒鐮?璇诲彇鏂囦欢,DeletePermission,Notice,OpenImgui,onConfigurationChanged,onCreate,requestPermission,update
+09-17 20:33:56.006 I/PC-Hook ( 4238): [PC] FLOW TRACE armed getAttributes
+09-17 20:33:56.006 I/PC-Hook ( 4238): [PC] FLOW TRACE armed loadKmView
+09-17 20:33:56.007 I/PC-Hook ( 4238): [PC] FLOW TRACE armed update
+09-17 20:33:56.007 I/PC-Hook ( 4238): [PC] FLOW TRACE armed Notice
+09-17 20:33:56.008 I/PC-Hook ( 4238): [PC] FLOW TRACE armed DeletePermission
+09-17 20:33:56.008 I/PC-Hook ( 4238): [PC] FLOW TRACE armed 鑾峰彇鏈哄櫒鐮?
+09-17 20:33:56.009 I/PC-Hook ( 4238): [PC] FLOW TRACE armed 璇诲彇鏂囦欢
+09-17 20:33:56.010 I/PC-Hook ( 4238): [PC] FLOW TRACE armed 鏂囦欢鏄惁瀛樺湪
+09-17 20:33:56.011 I/PC-Hook ( 4238): [PC] FLOW TRACE armed 鍐欏嚭assets璧勬簮鏂囦欢
+09-17 20:33:56.011 I/PC-Hook ( 4238): [PC] FLOW TRACE armed 鍒涘缓鏂囦欢
+09-17 20:33:56.012 I/PC-Hook ( 4238): [PC] FLOW TRACE armed 鍐欏叆鏂囦欢
+09-17 20:33:56.013 I/PC-Hook ( 4238): [PC] FLOW TRACE armed Post
+09-17 20:33:56.013 I/PC-Hook ( 4238): [PC] FLOW TRACE armed RC4Base
+09-17 20:33:56.014 I/PC-Hook ( 4238): [PC] FLOW TRACE armed encryRC4String
+09-17 20:33:56.015 I/PC-Hook ( 4238): [PC] FLOW TRACE armed encryRC4Byte
+09-17 20:33:56.016 I/PC-Hook ( 4238): [PC] FLOW TRACE armed bytesToHex
+09-17 20:33:56.016 I/PC-Hook ( 4238): [PC] FLOW TRACE armed hexToByte
+09-17 20:33:56.017 I/PC-Hook ( 4238): [PC] FLOW TRACE armed initKey
+09-17 20:33:56.018 I/PC-Hook ( 4238): [PC] click probe installed
+09-17 20:33:56.018 I/PC-Hook ( 4238): [PC] DIRECT KICK ready (trigger=appenter)
+09-17 20:33:56.018 I/PC-Hook ( 4238): [PC] SECONDARY requestPermission wrapped: 1
+09-17 20:33:56.021 I/PC-Hook ( 4238): [PC] FLOW secondary probes ready
+09-17 20:33:56.130 I/PC-Hook ( 4238): [PC] PMS getPackageInfo com.tencent.tmgp.pubgmhd
